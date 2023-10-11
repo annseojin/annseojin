@@ -1,3 +1,11 @@
+![header](https://capsule-render.vercel.app/api?type=Wave&color=CC99FF&height=400&section=header&text=seojin's%20Github&fontSize=90)
+
+<div align="center">
+👋 HI🫠 Welcome to my github profile!!
+
+🏫중부대학교 정보보호학 전공 92212893 안서진 
+</div>
+
 ## Contact♡̆̎
 <a href="https://instagram.com/03_0902/" target="_blank"><img src="https://img.shields.io/badge/03_0902-E4405F?style=plastic&logo=instagram&logoColor=white"/></a>
 <a href="mailto:92212893@jmail.ac.kr" target="_blank"><img src="https://img.shields.io/badge/92212893@jmail.ac.kr-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>
