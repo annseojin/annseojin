@@ -4,7 +4,7 @@
 👋 HI🫠 Welcome to my github profile!!
 
 🏫중부대학교 정보보호학 전공 92212893 안서진 
-</div>
+
 
 ## Contact♡̆̎
 <a href="https://instagram.com/03_0902/" target="_blank"><img src="https://img.shields.io/badge/03_0902-E4405F?style=plastic&logo=instagram&logoColor=white"/></a>
@@ -13,3 +13,4 @@
 <a href="https://sejin0902.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white"/></a>
 
 ![seojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=annseojin&include_all_commits=true&show_icons=true&theme=radical)
+</div>
