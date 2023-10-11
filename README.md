@@ -6,13 +6,13 @@
 🏫중부대학교 정보보호학 전공 92212893 안서진 
 
 
-## ✨Contact✨
+## ✨ Contact ✨
 <a href="https://instagram.com/03_0902/" target="_blank"><img src="https://img.shields.io/badge/03_0902-E4405F?style=plastic&logo=instagram&logoColor=white"/></a>
 <a href="mailto:92212893@jmail.ac.kr" target="_blank"><img src="https://img.shields.io/badge/92212893@jmail.ac.kr-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.notion.so/b5b73aad2b77443498943b806f225343" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/></a>
 <a href="https://sejin0902.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white"/></a>
 
-## 🔨 Once I've used 🔨
+## 🔨 used 🔨
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> 
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
