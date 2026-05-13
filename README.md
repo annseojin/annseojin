@@ -20,8 +20,10 @@
  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
  <br/>
  <br/>
-</div> 
+
+## Animals
 <div align="center">
 <a href="https://www.gitanimals.org/"><img src="https://render.gitanimals.org/guilds/834826977655465879/draw" width="50%" alt="gitanimals" /></a>
 </div>
+</div> 
 
